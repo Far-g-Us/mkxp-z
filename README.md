@@ -63,3 +63,5 @@ If a requested font is not found, no error is generated. Instead, a built-in fon
 + basically anyone else with commits in here or that reported problems to me
 
 <!-- Auto-trigger 2026-10-31 -->
+
+<!-- trigger 2 -->
